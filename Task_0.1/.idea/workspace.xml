@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e00e85a-69aa-4697-9b20-5d27ee5a993e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZiL0alltlGNimZIXtheyXwKzpe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClassTest.testGetLocalNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="METHOD_NAME" value="testGetLocalNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MainClassTest.testGetLocalNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e00e85a-69aa-4697-9b20-5d27ee5a993e" name="Default Changelist" comment="" />
+      <created>1585316745572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585316745572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1076" y="560" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585317108025">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1076" y="560" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1585317108025" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1585317247131">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585317247131" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1585317247131">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585317247131" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1585317247131">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585317247131" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1585317247131">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585317247131" />
+  </component>
+</project>
